@@ -1,4 +1,22 @@
+```javascript
+ 
+const WhoAmI = {
+  user: "Mauro Augusto Guedes Peixoto",
+  university_graduation: "analysis and systems development ",
+  hobbies: [
+   "Studying",
+   "Watching Movies",
+   "Playing GAMES",
+   "Reading Books"]
+}
+	
+ function getCurrentCity() {
+	return Joao_Pessoa_Brazil;
+  }
+   ```
 
+
+##
 	
 <div align="center">
   <a href="https://github.com/mauropeixotodev">
