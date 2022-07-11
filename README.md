@@ -16,7 +16,7 @@ const WhoAmI = {
    ```
 ##
 
-![dbzfigth](https://aminoapps.com/c/dragonballoficial/page/item/luta-contra-kakaroto/3Wkw_l0oUDIGdz7M0BadYYLzm6x4g6BBq0q)
+![dbzfigth](https://pa1.narvii.com/6295/5e65e863ba426be899f7745b1f365961a3b08016_hq.gif)
 
 
 
