@@ -14,10 +14,6 @@ const WhoAmI = {
 	return Joao_Pessoa_Brazil;
   }
    ```
-##
-
-![dbzfigth](https://i.pinimg.com/originals/9e/b7/1a/9eb71a5446ac448c1e3ccd26088337a3.gif)
-
 
 
 ##
@@ -53,6 +49,11 @@ const WhoAmI = {
  
 </div>
   
+  ##
+
+![dbzfigth](https://i.pinimg.com/originals/9e/b7/1a/9eb71a5446ac448c1e3ccd26088337a3.gif)
+
+
   
   
   
