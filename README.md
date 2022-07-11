@@ -16,7 +16,7 @@ const WhoAmI = {
    ```
 ##
 
-![dbzfigth](https://pa1.narvii.com/6295/5e65e863ba426be899f7745b1f365961a3b08016_hq.gif)
+![dbzfigth](https://i.pinimg.com/originals/9e/b7/1a/9eb71a5446ac448c1e3ccd26088337a3.gif)
 
 
 
