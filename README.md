@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red,1000:fbc7d4&height=210&section=header&text=Mauro%20Peixoto&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Full%20Stack&descAlignY=50">
+
 ```javascript
  
 const WhoAmI = {
